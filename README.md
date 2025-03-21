@@ -1,6 +1,4 @@
-# 钱德勒·宾の人类观察报告 😎
-
-< img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" align="right" alt="经典尬笑">
+# 钱德勒 
 
 ---
 
@@ -55,5 +53,3 @@
 | **爱情守则**   | 女友的菜再难吃也要光盘         | 微笑吞下肥皂味千层面       |
 | **应急方案**   | 尴尬时启动迪士尼屁股理论        | 解释为什么约会迟到两小时    |
 
-![防御姿态](https://media.tenor.com/5Bq4uU4v_esAAAAi/chandler-friends.gif)  
-*（系统提示：遇到危机时请默念——"Could I *be* more dramatic?"）*
