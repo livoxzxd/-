@@ -63,6 +63,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
+![](https://github.com/livoxzxd/-/blob/main/YTYYXXXY.png)
 
 
 ### 我可以在IDE上使用我建立的虚拟环境
