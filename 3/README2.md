@@ -82,3 +82,9 @@
 
 ### TF-IDF运行结果截图
 ![TF-IDF运行结果](./TF-IDF-yxy.png)
+
+## 样本平衡处理运行截图如下：
+<img src="image/07.png" width="800" alt="smote">
+
+## 增加模型评估指标运行截图如下：
+<img src="image/08.png" width="800" alt="report">
